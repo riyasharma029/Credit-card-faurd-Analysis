@@ -29,3 +29,8 @@ scikit-learn for model training and evaluation
 imbalanced-learn for handling data imbalance
 Matplotlib, Seaborn for data visualization
 Jupyter Notebooks for code execution and presentation
+
+## Future Improvements
+Incorporating deep learning techniques to further improve detection rates.
+Testing the model on more real-world datasets for better generalization.
+Developing an API for real-time fraud detection.
